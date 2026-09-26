@@ -59,6 +59,9 @@ Needs to have:
 
 #### Player (extends Creature)
 
+Needs to have:
+
+- ????
 - 
 
 #### Enemy (extends Creature)
@@ -68,10 +71,17 @@ Needs to have:
 
 ##### Enemy Types
 
-
+- Longhorn
+- 
 
 #### Blood (extends Entity)
 
+Needs to have:
 
+- ???
 
 #### Spikes (extends Entity)
+
+Needs to have:
+
+- ???
