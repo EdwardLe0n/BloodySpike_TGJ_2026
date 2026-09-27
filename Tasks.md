@@ -2,17 +2,17 @@
 
 ## Ideation:
 
-- Make a general doc describing the game
+- ***Make a general doc describing the game***
 - Make a list of structs/classes that need to be made
   - draw.io?
 
 ## Pre-Production
 
-- Functional game state
+- ***Functional game state***
 - Level Prototype
-  - Moving player
-  - working weapon
-  - stabbing the ground == spikes
+  - ***Moving player***
+  - ***working weapon***
+  - ***stabbing the ground == spikes***
   - basic enemies that just walk to the player
     - also take damage
 
@@ -20,7 +20,7 @@
 
 - Spike chaining
 - Sword dragging == blood
-- Blood balls UI
+- ***Blood balls UI***
 - Parry enemy projectiles == blood bullet?
 
 ## Post-production
@@ -29,6 +29,7 @@
 - Multiplier system for high attacks in a brief time period?
 - UI camera vs World camera?
 - Time slow when weapon contact
+- Red variance
 
 # Per Group
 

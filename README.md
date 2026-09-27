@@ -52,13 +52,14 @@ It's an arcade style game in which you drink blood, spill others blood, and impa
 
 #### Keyboard
 
-- w == foward
-- a/d == turn
+- ***w == foward***
+- ***a/d == turn***
 - s == backward
-- j (press) == attack
+- ***j (press) == attack***
 - j (hold) == charge attack
 - k (press) == throw
 - k (hold) == stab
+- ***l (hold) == suck***
 
 #### Gamepad
 
@@ -82,8 +83,8 @@ It's an arcade style game in which you drink blood, spill others blood, and impa
 | Where'd you go? | Add an special idle animation to your player character that only plays after 30 seconds of AFK |          |
 | Parry Slop      | add a parry system                                                                             |          |
 | Time Change     | have a slo-mo or sped up section of your game                                                  |          |
-| No Text Allowed | You cannot have any text! Make your game 100% intuitive                                        |          |
-| 3-Color Paradox | Only use 3 colors in the game                                                                  |          |
+| No Text Allowed | You cannot have any text! Make your game 100% intuitive                                        | DONE     |
+| 3-Color Paradox | Only use 3 colors in the game                                                                  | DONE     |
 | Cool Skillz     | Have a points-system with multipliers                                                          |          |
 | Infinitely Cool | Add an endless mode                                                                            |          |
 | Hideo Game      | add a reference to a Hideo Kojima game into your game                                          |          |
